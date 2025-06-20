@@ -22,7 +22,7 @@ const config: Config = {
   projectName: 'octocat.github.io',
   organizationName: 'radiommad',
   trailingSlash: false,
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
