@@ -22,6 +22,7 @@ const config: Config = {
   projectName: 'radiommad.github.io',
   organizationName: 'radiommad',
   trailingSlash: false,
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
